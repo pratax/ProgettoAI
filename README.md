@@ -2,7 +2,7 @@
 
 ### Prerequisiti 
 
-È necessario installare le librerie "nltk" e "sklearn".
+È necessario installare le librerie "nltk", "sklearn" e "pandas".
 
 ## Eseguire il test
 
