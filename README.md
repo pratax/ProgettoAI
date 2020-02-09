@@ -1,4 +1,12 @@
-Per eseguire i file reuters.py e 20newsgroups.py è sufficiente eseguirli con Python3.
+# Progetto AI
+
+### Prerequisiti 
+
+È necessario installare le librerie "nltk" e "sklearn".
+
+## Eseguire il test
+
+È sufficiente eseguire i file reuters.py e newsgroups.py con python3.
 
 Una volta eseguito il codice verranno generati i file .csv contenenti i dati numerici ottenuti e verranno anche mostrati i grafici riguardanti l'andamento di tali risultati.
 
